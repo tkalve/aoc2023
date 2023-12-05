@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Day 5 Input": {
+      "commandName": "Project",
+      "commandLineArgs": "input.txt"
+    },
+    "Day 5 Example": {
+      "commandName": "Project",
+      "commandLineArgs": "example.txt"
+    }
+  }
+}
